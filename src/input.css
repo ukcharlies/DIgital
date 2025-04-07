@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .primary-color {
+        @apply bg-primary;
+    }
+    .secondary-color {
+        @apply bg-secondary;
+    }
+    .accent-color {
+        @apply bg-accent;
+    }
+    .gradient-text {
+        background: linear-gradient(to right, #ACC18A, #7EA3CC, #3D4576, #646536);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
