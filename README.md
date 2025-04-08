@@ -127,6 +127,15 @@ We welcome all contributions to this project. Follow these steps:
 
 ---
 
+## 📬 Contact
+
+For questions, suggestions, or collaborations:
+
+- 📧 Email: `ukcharlies@gmail.com`
+- 📞 Phone: `+123-456-7890`
+
+---
+
 > Thank you for checking out Elevate Digital! We hope this project inspires your creativity and helps bring your ideas to life.
 
 ```
