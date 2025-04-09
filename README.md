@@ -1,8 +1,6 @@
-Absolutely! Here's a **professional, detailed `README.md` file** for your **Elevate Digital** frontend project. I've cleaned up formatting, added a **project structure diagram**, and polished each section for clarity and completeness.
 
----
 
-```markdown
+
 # 🚀 Elevate Digital - Frontend Landing Page
 
 Welcome to the frontend codebase for **Elevate Digital**, a startup committed to helping businesses establish a strong and modern digital presence. This project features a **responsive**, **user-centric landing page** built using **HTML**, **Tailwind CSS**, and standard best practices in frontend development.
